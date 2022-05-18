@@ -1842,3 +1842,14 @@ textarea.w-select {
   width:80em;
   margin-bottom: 10em;
 }
+@media screen and (max-width: 1020px){
+  .hover-text{
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 767px){
+  .hover-text{
+    font-size: 8px;
+  }
+}
